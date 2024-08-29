@@ -21,11 +21,13 @@
     <td align="center"><a href="https://github.com/mmsw1597"><img src="https://avatars.githubusercontent.com/yuiseo" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/jonghyunlee95"><img src="https://avatars.githubusercontent.com/ayoung528" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/dudwns"><img src="https://avatars.githubusercontent.com/ilmerry" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/dudwns"><img src="https://avatars.githubusercontent.com/akffhaos95" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/yuiseo"><b>유이서</b></a></td>
     <td align="center"><a href="https://github.com/ayoung528"><b>정아영</b></a></td>
-    <td align="center"><a href="https://github.com/ilmerry">최은형<b></b></a></td>
+    <td align="center"><a href="https://github.com/ilmerry"><b>최은형</b></a></td>
+    <td align="center"><a href="https://github.com/akffhaos95"><b>김민석</b></a></td>
   </tr>
 </table>
 

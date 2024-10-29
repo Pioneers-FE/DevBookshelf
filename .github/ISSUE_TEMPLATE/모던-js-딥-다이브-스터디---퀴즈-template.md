@@ -1,7 +1,7 @@
 ---
 name: Modern JS Deep Dive Quiz
 about: 모던 자바스크립트 딥 다이브 스터디 퀴즈 템플릿입니다!
-title: [x장]
+title: '[x장]'
 labels: ''
 assignees: ''
 
